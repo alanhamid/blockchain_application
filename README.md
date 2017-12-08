@@ -1,2 +1,1 @@
-# blockchain_application
-blockchain application
+# gochain-mastering
